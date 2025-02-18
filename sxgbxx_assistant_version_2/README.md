@@ -2,12 +2,13 @@
 👨‍💻 作者GitHub：@caspiankexin  
 📨 作者邮箱： [联系我](mailto:mirror_flower@outlook.com)  
 项目地址：[sxgbxx学习助手](https://github.com/caspiankexin/sxgbxx_assistant)   
+下载地址：http://caspian.ysepan.com/
 转载至：原创
 
 ---
 # 配合油猴脚本刷课程
 
-> 2022年通过python模拟键鼠操作，来实现刷课（详情见旧文：https://mp.weixin.qq.com/s/EUQKUMutxCE30aYt8L67UQ）。 同时也在网上找到有人做的后台静默自动刷课的软件，但已经不能使用了。刚好之前又看到有油猴脚本可以刷专题课程，所以重新写个软件，让刷课更加高效简单。
+> 2022年通过python模拟键鼠操作，来实现刷课（详情见旧文：https://mp.weixin.qq.com/s/EUQKUMutxCE30aYt8L67UQ ）。同时也在网上找到有人做的后台静默自动刷课的软件，但已经不能使用了。刚好之前又看到有油猴脚本可以刷专题课程，所以重新写个软件，让刷课更加高效简单。
 
 # 一、程序思路
 
