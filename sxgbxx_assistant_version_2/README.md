@@ -1,7 +1,7 @@
 📅 时间：2024年7月11日  
 👨‍💻 作者GitHub：@caspiankexin  
 📨 作者邮箱： [联系我](mailto:mirror_flower@outlook.com)  
-项目地址：[sxgbxx学习助手](https://github.com/caspiankexin/sxgbxx_assistant) 
+项目地址：[sxgbxx学习助手](https://github.com/caspiankexin/sxgbxx_assistant)   
 转载至：原创
 
 ---
@@ -288,7 +288,7 @@
 
 1. 双击运行“配合油猴脚本刷课程.exe”文件，在程序中输入`前期准备`中的`第3步`整理的网址，点击“开始学习”，开始运行程序。
 
-   > 程序下载地址：https://nebula.lanzout.com/ibv3Q249ya9e
+   > 程序下载地址：http://caspian.ysepan.com/
 
 2. 保持电脑网络连接正常，尽量不要再操作电脑，让程序自己运行。
 
