@@ -2,7 +2,7 @@
 👨‍💻 作者GitHub：@caspiankexin  
 📨 作者邮箱： [联系我](mailto:mirror_flower@outlook.com)  
 项目地址：[sxgbxx学习助手](https://github.com/caspiankexin/sxgbxx_assistant)   
-下载地址：http://caspian.ysepan.com/
+下载地址：http://caspian.ysepan.com/  
 转载至：原创
 
 ---
