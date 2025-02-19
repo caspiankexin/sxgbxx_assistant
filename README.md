@@ -2,7 +2,7 @@
 
 此仓库为sxgbxx网站学习助手，用于辅助学习sxgbxx网站课程，目前有两个版本，都可以使用。由于内容敏感，只对源代码进行开源，不提供打包后的可执行文件，可以自己安装Python运行代码。如有其他问题或交流的内容，可以[邮件联系我](mailto:mirror_flower@outlook.com)
 
-** 推荐使用sxgbxx_assistant_version_2。 ** 
+！！！推荐使用sxgbxx_assistant_version_2。
 
 具体情况分别是：
 
