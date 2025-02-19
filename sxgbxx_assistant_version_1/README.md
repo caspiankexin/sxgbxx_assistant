@@ -261,7 +261,7 @@ if __name__ == '__main__':
 
 使用浏览器检查工具，我们可以看到每一个课时对应的编码、课时类型、课时时长。
 
-[jietu](https://cors.zme.ink/http://cdn.idreams.cc/202502194d8b87fb0f953756ca4d264efd53a4e0.webp)
+![jietu](https://cors.zme.ink/http://cdn.idreams.cc/202502194d8b87fb0f953756ca4d264efd53a4e0.webp)
 
 分析到这，我们就可以想办法得到课程所有课时的链接、类型和时长。就可以用程序先获取以上信息，再依次打开课时链接，判断课时类型和时长，对每个课时页面进行_**点按播放按钮**_或_**滚动查看**_，以此来实现自动学习。
 
