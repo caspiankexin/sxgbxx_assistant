@@ -1,6 +1,8 @@
 # sxgbxx_assistant（sxgbxx学习助手）
 
-此仓库为sxgbxx网站学习助手，用于辅助学习sxgbxx网站课程，目前有两个版本，都可以使用。具体情况分别是：
+此仓库为sxgbxx网站学习助手，用于辅助学习sxgbxx网站课程，目前有两个版本，都可以使用。由于内容敏感，只对源代码进行开源，不提供打包后的可执行文件，可以自己安装Python运行代码。如有其他问题或交流的内容，可以[邮件联系我](mailto:mirror_flower@outlook.com)
+
+！推荐使用sxgbxx_assistant_version_2。具体情况分别是：
 
 ## sxgbxx_assistant_version_1
 
@@ -8,7 +10,7 @@
 
 ## sxgbxx_assistant_version_2
 
-此版本，基于
+此版本，基于Python + 油猴脚本配合来进行，通过修改油猴脚本，实现专题课程完成后关闭刘浏览器；通过设置edge浏览器，实现判断浏览器后台存活以判断学习进度；通过Python程序，实现专题课程结束打开下一个专题课时。
 
 ---
 
